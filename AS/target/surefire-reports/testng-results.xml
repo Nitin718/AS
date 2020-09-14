@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Teacher case As per the requairment]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="293038" started-at="2020-09-14T13:01:26 IST" finished-at="2020-09-14T13:06:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="293038" started-at="2020-09-14T13:01:26 IST" finished-at="2020-09-14T13:06:19 IST">
+      <class name="com.as.test.DemoAjenkinss">
+        <test-method status="PASS" signature="testBrowser()[pri:0, instance:com.as.test.DemoAjenkinss@57fffcd7]" name="testBrowser" duration-ms="186521" started-at="2020-09-14T13:01:26 IST" finished-at="2020-09-14T13:04:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowser -->
+        <test-method status="PASS" signature="testSearchBox()[pri:0, instance:com.as.test.DemoAjenkinss@57fffcd7]" name="testSearchBox" duration-ms="106351" started-at="2020-09-14T13:04:33 IST" finished-at="2020-09-14T13:06:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Teacher case As per the requairment]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+      </class> <!-- com.as.test.DemoAjenkinss -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
